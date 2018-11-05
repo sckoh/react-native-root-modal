@@ -1,4 +1,4 @@
-### react-native-root-modal
+## react-native-root-modal [![npm version](https://badge.fury.io/js/react-native-root-modal.svg)](http://badge.fury.io/js/react-native-root-modal)
 
 ------------------------
 
@@ -6,6 +6,7 @@
 1. Pure javascript solution, easy to install.
 2. Support both `React element` way and `javascript class` way to invoke, easy to use.
 3. Inherited from `<View />` you can set your own style or animation or anything you can do with View.
+4. redux support.
 
 #### Install
 
