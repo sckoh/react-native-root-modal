@@ -1,23 +1,23 @@
 {
-  "version": "1.1.1",
-  "name": "react-native-root-modal",
-  "description": "react native modal component",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/magicismight/react-native-root-modal"
-  },
-  "dependencies": {
-    "prop-types": "^15.6.0",
-    "react-native-root-siblings": "git+https://github.com/sckoh/react-native-root-siblings.git#fix-RN-0.48"
-  },
-  "main": "./lib/Modal.js",
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "android",
-    "modal",
-    "popover"
-  ]
+    "version": "1.1.1",
+    "name": "react-native-root-modal",
+    "description": "react native modal component",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magicismight/react-native-root-modal"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.0",
+        "react-native-root-siblings": "git+https://github.com/sckoh/react-native-root-siblings.git#bdb5f09b20f27562ed820c813f975f77ac5418ab"
+    },
+    "main": "./lib/Modal.js",
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "modal",
+        "popover"
+    ]
 }
